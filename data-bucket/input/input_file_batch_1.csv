@@ -1,0 +1,11 @@
+id,name,email,date,amount,status
+1,John Doe,john.doe@example.com,2025-04-01,125.50,active
+2,Jane Smith,jane.smith@example.com,2025-04-02,75.25,pending
+3,Robert Johnson,robert.j@example.com,2025-04-02,220.00,active
+4,Emily Davis,emily.davis@example.com,2025-04-03,50.75,inactive
+5,Michael Brown,michael.b@example.com,2025-04-03,175.25,active
+6,Sarah Wilson,sarah.w@example.com,2025-04-04,95.50,pending
+7,David Miller,david.m@example.com,2025-04-04,150.00,active
+8,Lisa Taylor,lisa.t@example.com,2025-04-05,85.75,inactive
+9,James Anderson,james.a@example.com,2025-04-05,210.25,active
+10,Jennifer White,jennifer.w@example.com,2025-04-06,110.50,pending
