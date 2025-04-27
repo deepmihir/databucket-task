@@ -59,7 +59,7 @@ Trigger an AWS Glue ETL job when a new file arrives in S3.
     Statement ID: lambda-da915304-1951-4488-b95b-1a9ac8649451
     Suffix: .csv`
 
-![Trigger configuration](images\image.png)
+![Trigger configuration](images/image.png)
 
 
 ```python
